@@ -1,4 +1,4 @@
-# GWC Project Links
+# GWC SIP Project Links
 
 #### [Personal Site](https://rebeccawang.tech)
 
